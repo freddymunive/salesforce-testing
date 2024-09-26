@@ -1,4 +1,6 @@
-# Salesforce DX Project: Next Steps Version 1.1
+# Salesforce DX Project: Next Steps Version 1.2
+
+this is a new branch named feature/SF-002
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
